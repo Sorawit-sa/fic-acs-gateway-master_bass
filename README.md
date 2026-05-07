@@ -68,7 +68,7 @@ ______________________________________________________________________________
 เพิ่ม AcsService kiddoServiceDao = InitialParameter.getKiddoServiceDao();
 เพิ่ม else if (KIDDO) ใน Method public Response setparametervalues( String requestMassage ) 
 
--แก้ไขไฟล์ ACSRestServiceSys.java
+- แก้ไขไฟล์ ACSRestServiceSys.java
 
 เพิ่ม AcsService kiddoServiceDao = InitialParameter.getKiddoServiceDao();
 เพิ่ม else if (KIDDO) ใน Method public Response reboot( String requestMassage )
